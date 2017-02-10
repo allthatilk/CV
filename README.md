@@ -10,7 +10,7 @@ I have organised numerous events in both a professional and voluntary capacity f
 
 - As a youth-worker I helped organise successful charitable events for the National Citizen Service (NCS) programme with young people. As previous Co-ordinator of Mid and East Cornwall Green Party I have organised small political meetings and gatherings, as well as beach cleans, volunteer support for stalls at Cornwall Pride, and visits from Green Party Leaders. 
 
-- I have organised, within the space of one week, a whirlwind visit to Cornwall by Natalie Bennett, where she visited 4 locations in one day. This included a successful press release, a visit to the Eden Project, visits with local marine conservationists and crowdfunding entrepeneurs, a fundraising pub quiz meet and greet, and free room and board for Natalie. I also organised a talk on the EU during the referendum campaigns.
+- I have organised, within the space of one week, a whirlwind visit to Cornwall by Natalie Bennett, where she visited 4 locations in one day. This included a successful press release, a visit to the Eden Project, visits with local marine conservationists and crowdfunding entrepeneurs, a fundraising pub quiz meet and greet, and free room and board for Natalie. I also organised a talk on the EU during the referendum campaign.
 
 - http://www.cornwalllive.com/green-party-will-target-cornwall-council-seats-at-election-next-year/story-29562289-detail/story.html
 - https://youtu.be/TjKyYSYzJio 
