@@ -40,6 +40,7 @@ I have organised numerous events in both a professional and voluntary capacity f
 *Education and Training Practitioner*
 - Receptionist for Brook clinics in Cornwall (primarily Newquay and Pool)
 - Education and Outreach bank worker in schools across Cornwall
+
 **Cornwall Council** (July 2016 to Jan 2017)
 *Library and Information Assistant*
 - Information signposting in Newquay One Stop Shop
