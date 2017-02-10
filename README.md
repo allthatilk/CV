@@ -1,6 +1,6 @@
-## Your Name
+## Imogen Kutz
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a fundamentally hopeful person determined to contribute to positive social change before I become maggot food. So far I have helped raise a few thousand pounds for various charities, helped raise money and resources for homeless shelters by volunteering and collecting clothing and toiletry donations, and I've made and sourced various things for Cornwall Children's Clothes Bank. I'm looking for a reliable career that keeps me on my toes in a challenging and diverse environment, and I'd like my work to provide creative solutions to practical problems or just make people's lives that much simpler and happier.
 
 ## Skills
 
