@@ -42,6 +42,7 @@ I have organised numerous events in both a professional and voluntary capacity f
 - Education and Outreach bank worker in schools across Cornwall
 
 **Cornwall Council** (July 2016 to Jan 2017)
+
 *Library and Information Assistant*
 - Information signposting in Newquay One Stop Shop
 - Computer support, reference guide, information signposting, general librarian at Newquay Library
