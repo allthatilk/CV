@@ -13,16 +13,8 @@ I have organised numerous events in both a professional and voluntary capacity f
 - I have organised, within the space of one week, a whirlwind visit to Cornwall by Natalie Bennett, where she visited 4 locations in one day. This included a successful press release, a visit to the Eden Project, visits with local marine conservationists and crowdfunding entrepeneurs, a fundraising pub quiz meet and greet, and free room and board for Natalie. I also organised a talk on the EU during the referendum campaigns.
 
 - http://www.cornwalllive.com/green-party-will-target-cornwall-council-seats-at-election-next-year/story-29562289-detail/story.html
-- https://youtu.be/TjKyYSYzJio http://www.falmouthpacket.co.uk/news/14421231.Penryn_Campus_panel_will_discuss_EU_referendum_without__fluff__and__bickering_/
-
-#### Another skill (TBC)
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- https://youtu.be/TjKyYSYzJio 
+- http://www.falmouthpacket.co.uk/news/14421231.Penryn_Campus_panel_will_discuss_EU_referendum_without__fluff__and__bickering_/
 
 ## Education
 
@@ -41,8 +33,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 2:1
 - Attended University of California Berkeley during year abroad achieving a 3.9 GPA
 - Tech Monkey on Sci-Fi, Fantasy and Extreme Cult Society committee in 2010-2011
-
-#### Any other qualifications
 
 ## Experience
 
