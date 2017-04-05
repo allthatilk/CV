@@ -1,14 +1,22 @@
 ## Imogen Kutz
 
-I am a fundamentally hopeful person determined to contribute to positive social change before I become maggot food. So far I have helped raise a few thousand pounds for various charities, helped raise money and resources for homeless shelters by volunteering and collecting clothing and toiletry donations, and I've made and sourced various things for Cornwall Children's Clothes Bank. I'm looking for a reliable career that keeps me on my toes in a challenging and diverse environment, and I'd like my work to provide creative solutions to practical problems or just make people's lives that much simpler and happier.
+I have retrained as a software developer as I'd like to provide creative solutions to practical problems. I would like to be part of projects that work to make people's lives that much simpler and happier. I have previous experience in the public and third sectors professionally
 
 ## Skills
 
-#### Events Organising
+#### Fast learning and adaptibility
 
-I have organised numerous events in both a professional and voluntary capacity for the purposes of charitable fundraising or politics. These events have spanned simple young-people orientated bake sales and sponsored events to visits from political party leaders.
+I have organised numerous events in both a professional and voluntary capacity for the purposes of charitable fundraising or politics. These events have spanned simple young-people orientated bake sales and sponsored events to visits from political party leaders. I've had to use a range of skills and pick up new information and systems quickly to do this.
 
-- As a youth-worker I helped organise successful charitable events for the National Citizen Service (NCS) programme with young people. As previous Co-ordinator of Mid and East Cornwall Green Party I have organised small political meetings and gatherings, as well as beach cleans, volunteer support for stalls at Cornwall Pride, and visits from Green Party Leaders. 
+I've had to:
+* Learn my way around new CRM systems on a professional and voluntary basis
+* Learn the ropes of the UK political system locally and nationally (I didn't even know what a hustings was when I first got involved).
+* Learn how to use social media to set up events, pages and groups. Create online polls and surveys. Increase online volunteer engagement.
+* Rebranded a local young activist group to increase community identity and engagement.
+* Learn how to be a youth worker with no prior experience working with children and young people in detached environments. I ended up planning and leading my own sessions within a few months.
+* Organised a variety of charitable and political events. Descriptions and evidence below.
+
+- As a youth-worker I helped collate data and organise successful charitable events for the National Citizen Service (NCS) programme with young people. As previous Co-ordinator of Mid and East Cornwall Green Party I have organised small political meetings and gatherings, as well as beach cleans, volunteer support for stalls at Cornwall Pride, and visits from Green Party Leaders. 
 
 - I have organised, within the space of one week, a whirlwind visit to Cornwall by Natalie Bennett, where she visited 4 locations in one day. This included a successful press release, a visit to the Eden Project, visits with local marine conservationists and crowdfunding entrepeneurs, a fundraising pub quiz meet and greet, and free room and board for Natalie. I also organised a talk on the EU during the referendum campaign.
 
@@ -20,12 +28,12 @@ I have organised numerous events in both a professional and voluntary capacity f
 
 #### Makers Academy (Feb 2017 to May 2017)
 
-- Curiosity and hungry passion for code
+- Curiosity for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript
+- Rspec, Jasmine
 
 #### University of Kent (Aug 2009 to June 2013)
 
