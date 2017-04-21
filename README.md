@@ -24,16 +24,6 @@ I have retrained as a software developer, pretty much out of the blue, because I
 
 * My social, charitable, and political engagement continue to expand my understanding of inclusive and accessible spaces. It's easy to become very blinkered in specialised fields and forget the broad diversities that deserve equal access to technologies that could improve or enhance their lives. I am very passionate about fostering inclusive spaces that allow people the freedom to contribute in a safe and welcoming environment and ensuring marginalised voices achieve necessary parity, be it in a group, community, or the wider world.
 
-Here is another list that exemplefies my skills:
-
-* I learned how to be a youth worker with no prior experience working with children and young people in detached environments. I ended up planning and leading my own sessions within a few months at CXK Ltd.
-* When working for CXK Ltd. I created sexual health information resources for outreach workers and a presentation on healthy sex and relationships for National Citizen Service participants.
-* When working for Brook I helped update educational resources and recommend young-people-friendly online resources in schools.
-* I learned the ropes of the UK political system locally and nationally and ended up enrolled on specialist training to stand as an election candidate and in various Green Party leadership roles within a year (I didn't even know what a hustings was when I first got involved).
-* I have learned how to use social media to set up events, pages and groups. Create online polls and surveys. Increase online volunteer engagement.
-* I have rebranded two local young activist groups to increase community identity and engagement ([Cornwall Young Greens](https://www.facebook.com/CornwallYG/) and [Cornwall Young Left Coalition](https://www.facebook.com/groups/1591428351073200/)).
-* I have organised, within the space of one week, [a whirlwind tour of Cornwall by Natalie Bennett](http://www.cornwalllive.com/green-party-will-target-cornwall-council-seats-at-election-next-year/story-29562289-detail/story.html), where she visited 4 locations in one day. This included a visit to the Eden Project, visits with local marine conservationists and crowdfunding entrepeneurs, a fundraising pub quiz meet and greet, and free room and board for Natalie. I have also organised a [talk on the EU](https://youtu.be/TjKyYSYzJio ) during the referendum campaign  with a [successful press release](http://www.falmouthpacket.co.uk/news/14421231.Penryn_Campus_panel_will_discuss_EU_referendum_without__fluff__and__bickering_/), and volunteer support for the Green stall at Cornwall Pride.
-
 ## Education
 
 #### Makers Academy (Feb 2017 to May 2017)
