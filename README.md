@@ -1,6 +1,6 @@
 ## Imogen Kutz
 
-I have retrained as a software developer, pretty much out of the blue, because I've found coding to be highly addictive. I enjoy generating creative solutions to practical problems and having so much scope for learning. I hope to get stuck into projects that generally make people's lives simpler and happier, whilst providing an interesting challenge.
+I have retrained as a software developer, pretty much out of the blue, because I've found coding to be highly addictive. I've always wanted to learn to code and now I can't stop! I enjoy generating creative solutions to practical problems and having so much scope for learning. I hope to get stuck into projects that generally make people's lives simpler and happier, whilst providing an interesting challenge.
 
 ## Skills
 
