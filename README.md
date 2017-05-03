@@ -14,7 +14,7 @@ I have retrained as a software developer because I've found coding to be highly 
 
 #### Experience in leadership roles
 
-* I have taken on leading roles in local Green Party activites in the South West (Coordinator for Mid and East Cornwall Green Party, Treasurer for Cornwall Young Greens, Co-convenor for South West Young Greens). I enjoy working in teams and I'm not afraid to speak up if things seem to be steering off course or I feel I need the benefit of someone else's expertise.
+* I have previously taken on leading roles in local Green Party activites in the South West (Coordinator for Mid and East Cornwall Green Party, Treasurer for Cornwall Young Greens, Co-convenor for South West Young Greens). I enjoy working in teams and I'm not afraid to speak up if things seem to be steering off course or I feel I need the benefit of someone else's expertise.
 
 #### Skilled organiser
 
