@@ -60,7 +60,7 @@ I have retrained as a software developer because I've found coding to be highly 
 *Young People's Project Worker*
 - Youth worker for the following projects:
   * Community Activity Teams (detached youth work)
-  * HOUSE on the move (targetted outreach youth work)
-  * Frisky (teen parent targetted outreach youth work)
+  * HOUSE on the move (targeted outreach youth work)
+  * Frisky (teen parent targeted outreach youth work)
 - Team Leader and Assistant Team Leader for the National Citizen Service (NCS)
 - Administrative work for NCS
