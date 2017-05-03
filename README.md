@@ -32,10 +32,10 @@ My social, charitable, and political engagement continue to expand my understand
 - Independent learner and problem-solver
 - OOP, TDD, MVC, SRP... so many acronyms!
 - Software Craftsmanship
- - Ruby, Rails, Javascript
- - Rspec, Jasmine
- - Python, Flask, pytest
- - HTML, CSS
+    * Ruby, Rails, Javascript
+    * Rspec, Jasmine
+    * Python, Flask, pytest
+    * HTML, CSS
 
 #### University of Kent (Aug 2009 to June 2013)
 
