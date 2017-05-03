@@ -56,7 +56,7 @@ I have retrained as a software developer because I've found coding to be highly 
 - Information signposting in Newquay One Stop Shop
 - Computer support, reference guide, information signposting, general librarian at Newquay Library
 
-**CXK Ltd.** (April 2014 - November 2014)
+**CXK Ltd.** (April 2014 - November 2014)  
 *Young People's Project Worker*
 - Youth worker for the following projects:
   * Community Activity Teams (detached youth work)
