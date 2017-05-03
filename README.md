@@ -10,7 +10,7 @@ I have retrained as a software developer because I've found coding to be highly 
 
 #### Attention to detail
 
-* From checking minutes and press releases, to clerical work, to the scientific background of my degree, I am comfortable meticulously analysing my code and isolating bugs.
+* From checking minutes and press releases, to clerical work, to the scientific background of my degree, I am comfortable meticulously analysing my work and isolating problems.
 
 #### Experience in leadership roles
 
