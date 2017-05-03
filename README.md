@@ -1,6 +1,6 @@
 ## Imogen Kutz
 
-* I have retrained as a software developer because I've found coding to be highly addictive. I've always wanted to learn to code and now I can't stop! I enjoy generating creative solutions to practical problems and having so much scope for learning. I hope to get stuck into projects that generally make people's lives simpler and happier, whilst providing an interesting challenge. My experience outside of code is pretty broad. I've been involved in politics, sex and relationships education, youth work, admin work, charity work, and community services, not including my experiences as a temp worker. AMA.
+I have retrained as a software developer because I've found coding to be highly addictive. I've always wanted to learn to code and now I can't stop! I enjoy generating creative solutions to practical problems and having so much scope for learning. I hope to get stuck into projects that generally make people's lives simpler and happier, whilst providing an interesting challenge. My experience outside of code is pretty broad. I've been involved in politics, sex and relationships education, youth work, admin work, charity work, and community services, not including my experiences as a temp worker. AMA.
 
 ## Skills
 
@@ -22,7 +22,7 @@
 
 #### Proud feminist and social activist
 
-I am very passionate about fostering inclusive spaces that allow people the freedom to contribute in a safe and welcoming environment and ensuring marginalised voices achieve necessary parity, be it in a group, community, or the wider world.
+* I am very passionate about fostering inclusive spaces that allow people the freedom to contribute in a safe and welcoming environment and ensuring marginalised voices achieve necessary parity, be it in a group, community, or the wider world.
 
 ## Education
 
