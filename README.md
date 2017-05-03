@@ -31,7 +31,7 @@ My social, charitable, and political engagement continue to expand my understand
 - Curiosity for code
 - Independent learner and problem-solver
 - OOP, TDD, MVC, SRP... so many acronyms!
-- Software Craftsmanship
+- Software Craftsmanship, including experience with, but not limited to:
     * Ruby, Rails, Javascript
     * Rspec, Jasmine
     * Python, Flask, pytest
