@@ -6,23 +6,23 @@ I have retrained as a software developer because I've found coding to be highly 
 
 #### Fast learning and adaptibility
 
-* I have a very broad background of experiences. I don't think I can stress this enough. I have learned the ropes in all kinds of environments from factory work, youth work, admin work, transport coordination, politics and events organising, to name a few. I learn by throwing myself in the deep end, asking questions, and tracking down the most effective resources recommended by people with solid expertise.
+I have a very broad background of experiences. I don't think I can stress this enough. I have learned the ropes in all kinds of environments from factory work, youth work, admin work, transport coordination, politics and events organising, to name a few. I learn by throwing myself in the deep end, asking questions, and tracking down the most effective resources.
 
 #### Attention to detail
 
-* From checking minutes and press releases, to clerical work, to the scientific background of my degree, I am comfortable meticulously analysing my code and isolating bugs.
+From checking minutes and press releases, to clerical work, to the scientific background of my degree, I am comfortable meticulously analysing my code and isolating bugs.
 
 #### Experience in leadership roles
 
-* I have previously taken on leading roles in local Green Party activites in the South West (Coordinator for Mid and East Cornwall Green Party, Treasurer for Cornwall Young Greens, Co-convenor for South West Young Greens). I enjoy working in teams and I'm not afraid to speak up if things seem to be steering off course or I feel I need the benefit of someone else's expertise.
+I have previously taken on leading roles in local Green Party activites in the South West (Coordinator for Mid and East Cornwall Green Party, Treasurer for Cornwall Young Greens, Co-convenor for South West Young Greens). I enjoy working in teams and I'm not afraid to speak up if things seem to be steering off course.
 
 #### Skilled organiser
 
-* I have organised charitable, youth, political, environmental, and social events for a variety of causes in both a professional and voluntary capacity. I have organised events in short time frames, with tiny to non-existent budgets, catering for a variety of needs. I understand that better planning means fewer problems down the road and when applied to code this helps create cleaner, more flexible solutions.
+I have organised charitable, youth, political, environmental, and social events for a variety of causes in both a professional and voluntary capacity. I have organised events in short time frames, with tiny to non-existent budgets, catering for a variety of needs. I understand that better planning means fewer problems down the road and when applied to code this helps create cleaner, more flexible solutions.
 
 #### Proud feminist and social activist
 
-* My social, charitable, and political engagement continue to expand my understanding of inclusive and accessible spaces. It's easy to become very blinkered in specialised fields and forget the broad diversities that deserve equal access to technologies that could improve or enhance their lives. I am very passionate about fostering inclusive spaces that allow people the freedom to contribute in a safe and welcoming environment and ensuring marginalised voices achieve necessary parity, be it in a group, community, or the wider world.
+My social, charitable, and political engagement continue to expand my understanding of inclusive and accessible spaces. It's easy to become very blinkered in specialised fields and forget the broad diversities that deserve equal access to technologies that could improve or enhance their lives. I am very passionate about fostering inclusive spaces that allow people the freedom to contribute in a safe and welcoming environment and ensuring marginalised voices achieve necessary parity, be it in a group, community, or the wider world.
 
 ## Education
 
@@ -30,10 +30,12 @@ I have retrained as a software developer because I've found coding to be highly 
 
 - Curiosity for code
 - Independent learner and problem-solver
-- OOP, TDD, BDD, MVC, SRP... all the acronyms!
+- OOP, TDD, MVC, SRP... so many acronyms!
 - Software Craftsmanship
-- Ruby, Rails, Javascript
-- Rspec, Jasmine
+ - Ruby, Rails, Javascript
+ - Rspec, Jasmine
+ - Python, Flask, pytest
+ - HTML, CSS
 
 #### University of Kent (Aug 2009 to June 2013)
 
