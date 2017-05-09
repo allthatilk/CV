@@ -28,13 +28,13 @@ I have retrained as a software developer because I've found coding to be highly 
 
 #### Makers Academy (Feb 2017 to May 2017)
 
-- Curiosity for code
-- Independent learner and problem-solver
+- Addiction to code
+- Avid learner and problem-solver
 - OOP, TDD, MVC, SRP... so many acronyms!
 - Software Craftsmanship, including experience with, but not limited to:
     * Ruby, Rails, Javascript
-    * Rspec, Jasmine
-    * Python, Flask, pytest
+    * RSpec, Jasmine
+    * Python, Flask, Pytest
     * HTML, CSS
 
 #### University of Kent (Aug 2009 to June 2013)
@@ -42,7 +42,7 @@ I have retrained as a software developer because I've found coding to be highly 
 - BSc (Hons) Biological Anthropology with a Year in the USA
 - 2:1
 - Attended University of California Berkeley during year abroad achieving a 3.9 GPA
-- Tech Monkey on Sci-Fi, Fantasy and Extreme Cult Society committee in 2010-2011
+- Tech Monkey on Sci-Fi, Fantasy and Extreme Cult Society committee in 2010-2011 (yes this was the official name of the role...)
 
 ## Experience
 
